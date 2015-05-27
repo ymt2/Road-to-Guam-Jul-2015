@@ -6,7 +6,9 @@
 9:00 - 10:00 移動 GOSR
 ======================
 
-- http://gosrjapan.com
+- `GOSR <http://gosrjapan.com>`_
+
+  - ホテルのロビー集合
 
 
 10:00 - 12:00 クレー射撃 GOSR
@@ -23,7 +25,10 @@
 12:00 - 13:45 (14:45) 未定
 ==========================
 
-- 空港近くまで戻ってお買い物がよさそう
+- 空港近くまで送ってもらってお買い物がよさそう
+
+  - `DFS <http://www.dfs.com/jp/tgalleria-guam>`_
+  - http://www.arukikata.co.jp/city/GUM/shopping_2.html
 
 
 13:45 - 14:45 移動 GUM
