@@ -1,0 +1,4 @@
+[submodule "_build/html"]
+	path = _build/html
+	url = git@github.com:ymt2/Road-to-Guam-Jul-2015.git
+	branch = gh-pages
