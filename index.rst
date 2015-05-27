@@ -11,6 +11,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   20150704
+   20150705
+   20150706
 
 
 Indices and tables
@@ -19,4 +22,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
