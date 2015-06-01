@@ -48,6 +48,8 @@ Wake up - 09:05 移動 KIX
 
 - `ヒルトン グアム リゾート &スパ (Hilton Guam Resort & Spa) <http://www.hilton-guam.com/guide/company.html>`_
 
+.. googlemaps:: ヒルトン グアム リゾート アンド スパ
+
 
 21:00 営業終了 プール
 =====================
